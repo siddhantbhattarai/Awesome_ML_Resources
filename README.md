@@ -107,7 +107,7 @@ Explore these additional resources to further your Machine Learning journey:
 Contributions are welcome! If you have any suggestions or additional resources to share, please open an issue or submit a pull request.
 
 ## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This repository is licensed under the MIT License. See the [LICENSE] file for more information.
 
 ---
 
